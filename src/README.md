@@ -1,7 +1,5 @@
 # Myntra - (Clone)
 
-# Myntra - (Clone)
-
 <p>A clone of the Myntra Website. Myntra is a major Indian fashion e-commerce company headquartered in Bengaluru, Karnataka, India. </p>
   
   <p>A clone of the e-commerce site Myntra developed using ReactJS, ReduxJS, routes and Material UI. </p>
